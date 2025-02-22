@@ -1,7 +1,5 @@
 # Hi there, I'm Raja 👋
 
-![Awais Azhar](https://github.com/razhar2201/razhar2201/blob/main/Profile_Pic.png)
-
 - 💻 Software Engineer with 3 years of experience in front-end development. 
 - 🚀 React - NextJS - Fastify - Typescript 
 
