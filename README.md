@@ -1,5 +1,7 @@
 # Hi there, I'm Raja 👋
 
+![Awais Azhar](https://github.com/razhar2201/razhar2201/blob/main/Profile_Pic.png)
+
 - 💻 Software Engineer with 3 years of experience in front-end development. 
 - 🚀 React - NextJS - Fastify - Typescript 
 
@@ -11,6 +13,9 @@
 
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/azhar-raja/).
+
+
+
 
 <!---
 razhar2201/razhar2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
