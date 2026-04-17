@@ -1,6 +1,6 @@
 # Hi there, I'm Raja 👋
 
-- 💻 Software Engineer with 3 years of experience in front-end development. 
+- 💻 Software Engineer with 4 years of experience in front-end development. 
 - 🚀 React - NextJS - Fastify - Typescript 
 
 - Primary Tech Stack
@@ -8,9 +8,6 @@
      - NextJS
      - Fastify
      - Typescript 
-
-
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/azhar-raja/).
 
 
 
