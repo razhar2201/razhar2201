@@ -1,6 +1,6 @@
 # Hi there, I'm Raja 👋
 
-- 💻 Software Engineer with 4 years of experience in front-end development. 
+- 💻 Software Engineer with 5 years of experience in full-stack development. 
 - 🚀 React - NextJS - Fastify - Typescript 
 
 - Primary Tech Stack
